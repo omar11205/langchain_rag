@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606fe91-f9aa-4b5b-8d48-5cb135b93ed3" name="Changes" comment="First Commit and push">
+    <list default="true" id="f606fe91-f9aa-4b5b-8d48-5cb135b93ed3" name="Changes" comment="Ready for QA HF">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RAG_open_source_LLMs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RAG_open_source_LLMs.ipynb" afterDir="false" />
     </list>
@@ -82,7 +82,8 @@
       <workItem from="1712931683651" duration="210000" />
       <workItem from="1712932012458" duration="2209000" />
       <workItem from="1712946978305" duration="8648000" />
-      <workItem from="1712963035751" duration="5997000" />
+      <workItem from="1712963035751" duration="6447000" />
+      <workItem from="1713017719952" duration="3727000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit and push">
       <option name="closed" value="true" />
@@ -92,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712957398702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ready for QA HF">
+      <option name="closed" value="true" />
+      <created>1712970360926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712970360926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ready for QA HF">
+      <option name="closed" value="true" />
+      <created>1712970540239</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712970540239</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit and push" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit and push" />
+    <MESSAGE value="Ready for QA HF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready for QA HF" />
   </component>
 </project>
